@@ -11,4 +11,12 @@
     * Actual discussion by MPs with appropriate title and rich formatting
 * Some example Bills, Motions and Oral Answers included
 
+---
+
 A `format_hansard.py` file is included to extract speeches and standardise the formatting of the JSON files. The formatted JSON files are written into an output folder. This works for full hansard sessions (with the `-s` flag) and for Bills, Motions and Oral Answers. 
+
+A `formatted_to_txt.py` is also included to turn the formatted JSON file into text for annotation. 
+
+---
+
+The Annotated folder consists of a `config.json` file to be used with [ner-annotator](https://pypi.org/project/ner-annotator/). The annotated files are present and labelled with `_annotated.json`. 

@@ -66,7 +66,7 @@ if __name__ == "__main__":
         current_speaker = ""
         current_speech = []
         for line in pre_text:
-            sline = line.strip()
+            sline = line.strip().replace('\u009d', "")
             if sline in speaker_list:
                 if current_speaker and current_speech:
                     d = {"speaker": current_speaker, "content": current_speech.copy()}

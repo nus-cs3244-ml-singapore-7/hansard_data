@@ -1,0 +1,8 @@
+{
+	"models": [
+		{
+			"name": "hansard",
+			"entities": ["PERSON", "NORP", "FAC", "ORG", "GPE", "LAW", "DATE", "ISSUE"]
+		}
+	]
+}
