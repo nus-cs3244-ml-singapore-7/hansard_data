@@ -1,7 +1,3 @@
-~~~
-Apostille Bill
-|||
-The Second Minister for Law (Mr Edwin Tong Chun Fai)
 : Mr Deputy Speaker, Sir, I beg to move, “That the Bill be now read a Second time”.
 Sir, this Bill gives effect to the obligations under the Hague Convention Abolishing the Requirement of Legalisation for Foreign Public Documents, also known as the Apostille Convention.
 Sir, in my speech, I will explain why Singapore intends to accede to the Apostille Convention and also set out the key features of the Bill to this House.
@@ -30,16 +26,10 @@ The Bill also provides for the effect of apostilles, so as to facilitate their u
 The Bill also contains a related amendment to the Evidence Act. While the Evidence Act is not contrary to the obligations under the Apostille Convention, this amendment will allow for foreign public documents from Contracting Parties to also be proved by an apostille being affixed on such documents. The proposed amendment clarifies that the operation of Part 2 of the Bill is not affected by the sections of the Evidence Act which relate to the way in which public documents are proven.
 Sir, in conclusion, this Bill will facilitate cross-border use of public documents by abolishing the requirement of legalisation for public documents from fellow Contracting Parties; and secondly, replacing legalisation with the use of a one-step process involving the use of apostilles that will be internationally recognised and accepted.
 These measures will streamline and modernise the process for authentication of public documents for recognition across different jurisdictions and no doubt, as I have said earlier, save time and expense for parties. Mr Deputy Speaker, Sir, I beg to move.
-|||
-Mr Murali Pillai (Bukit Batok)
 : Mr Deputy Speaker, Sir, hon Members may be forgiven if they view the debate on this Bill as boring, notwithstanding the valiant attempts of the speakers on this Bill, myself included. The fact is, that the topic of legalisation of public documents is hardly something that will excite one's senses.
 I, on the other hand, am feeling elated. Why? Because, I suggested in this House that Singapore ratify the Apostille Convention by way of a Parliamentary Question that came up for answer in this House on 20 November 2018. Then, the hon Minister for Law informed this House that the Government was looking into this matter. About two years later, the Apostille Bill is presented in this House for consideration.
 If passed, Singapore will likely become party to the Apostille Convention next year which incidentally is the 60th anniversary of the Convention. Whilst the subject matter of this Bill may be boring, it is one that can have positive impact for Singaporeans as outlined by the hon Minister. Mr Deputy Speaker, Sir, with your permission, may I be allowed to flash two slides on the LCD screen?
-|||
-Mr Deputy Speaker
 : Yes, most certainly, please.
-|||
-Mr Murali Pillai
 : Obliged, Sir. It seems to me that it is not working. Never mind Sir, in the interest of time, I will just proceed. I was about to show the legalisation process, but thankfully, the hon Minister had outlined the legalisation process. Without the Apostille Convention, there are four, possibly five stages, which are required to be undergone before the document in the state of origin, is recognised in the state of destination.
 With the Apostille Bill passed and Singapore's ratification of the Apostille Convention, this is reduced to a one-step process. That, as the hon Minister mentioned, translates to enormous savings of time and costs because you no longer have to go to the consulate authority to have the documents legalised. Not only that, as the hon Minister mentioned, the apostille once issued, is recognised in about 118 countries, which includes all the major countries in the world, the business centres in the world too. So, Singaporeans would get the benefit of the convention to have their vital documents issued by public authorities recognised in these countries. These documents include birth certificates, marriage certificates and death certificates
 It also, as the hon Minister mentioned, strengthen Singapore's a attraction as a premier business and international dispute resolution hub. This is because, oversees public documents can also be readily recognised here, for business purposes as well as for legal proceedings here.
@@ -49,8 +39,6 @@ I also have a query with respect to fees that will be charged for issuance of th
 Sir, before I end my speech, may I say that this is an instance of how backbencher Members of Parliaments can contribute in this House through our respective areas of specialised professional knowledge. I daresay that save for practising lawyers and to be fair, the hon Member Mr Louis Ng who would be speaking after me, not many would have heard of the Apostille Convention. In fact, many Members were asking about this in the Members' Room earlier today.
 The vast majority of backbencher Members of Parliament on both sides of this House are not full-time Members of Parliament. Having a House of backbencher Members of Parliament, not of professional politicians but each of us holding different areas of knowledge and expertise ensures that we, as a House, do not have the same blind spots. Combined with a listening frontbench, we will be able to make better contributions to policy-making for Singapore and fellow Singaporeans. I support the Bill.
 6.43 pm
-|||
-Mr Louis Ng Kok Kwang (Nee Soon)
 : Sir, like Mr Murali, I am extremely excited about this Bill as well. Sir, if this Bill is passed, Singapore will join 118 countries as a party to the Apostille Convention.
 This Bill gives effect to our obligations under the Convention. This will streamline our processes for recognising foreign public documents and make it easier for our public documents to be recognised in other contracting states. With the apostille process in place, individuals will not have to go to two sets of government authorities to legalise foreign public documents. This will significantly cut down on bureaucratic processes, which I think we can all agree, is a good thing.
 I just have four points of clarification to make.
@@ -60,18 +48,12 @@ My third point is on apostille fraud which is a problem within the international
 Finally, can Minister share whether Singapore will be adopting both the e-Apostilles and e-Registers system. An e-Apostille is an apostille that is issued in electronic format with an electronic signature. An e-Register on the other hand is a register of apostilles that is kept in electronic form and which is accessible online by the recipient of the Apostille.
 COVID-19 has restricted cross-border mobility but individuals still have to get their foreign public documents authenticated. The e-Apostille and e-Register system have provided a convenient way to get around this problem for many other countries, such as Brazil, Bulgaria, the Dominican Republic, Venezuela and the US. However, adoption of these systems could also mean there are more opportunities for bad faith actors to interfere. If we are adopting both or either systems, can Minister share what steps will be taken to protect the integrity of the e-Apostilles or e-Registers given that the documents may contain extremely sensitive information?
 Notwithstanding these points, I stand in support of the Bill.
-|||
-Mr Dennis Tan Lip Fong (Hougang)
 : Mr Deputy Speaker, Sir, thank you for allowing me to join this debate at short notice. Before I start, let me first declare my interest as a notary public. And as a notary public myself, I have long wondered why Singapore has hitherto not been a party to the Hague Convention Abolishing the Requirement of Legalisation for Foreign Public Documents.So, I certainly support this Bill.
 I note the transfer of existing legalisation apostille responsibility from MFA to the Singapore Academy of Law or SAL, and that pursuant to this Bill, once passed, SAL will be the body issuing the relevant certificate.
 I have some concerns whether this will lead to an increase of the fees which are currently being charged by MFA for apostille related legalisation of documents. I say this, bearing in mind that in October last year, SAL made it mandatory for all documents requiring notarisation to be accompanied by a notarial certificate which would in turn be required to be authenticated by SAL and there were new mandatory authentication charges chargeable for all documents to be notarised.
 While the intention for authentication is good and understandable, the change in the requirements resulted in additions to the process and paperwork, and additional charges to businesses and individuals.
 So, I would like to seek the Minister's assurance that with the passing of this Bill, SAL will not increase the fees which are currently being charged by MFA in respect of any apostille certification charges.
-|||
-Mr Deputy Speaker
 : Minister Edwin Tong.
-|||
-Mr Edwin Tong Chun Fai
 : Thank you, Mr Deputy Speaker. And I am very pleased to be speaking on this suddenly very exciting Bill. I think it is exciting because it is the last speech of the day.
 But I want to thank Mr Pillai. I think it is true what he has said that his contributions from the backbench with his experience over several years, have contributed to our thinking on this. We looked more closely at the Convention and eventually, having satisfied ourselves that it is a Convention that we can accede to and that we have the necessary infrastructure in place to play the role as envisaged in the Convention, we have decided to proceed with this. So, thank you very much, Mr Pillai, for your contributions.
 Sir, let me go directly to the questions raised.
@@ -90,6 +72,4 @@ Mr Ng would also note that one of the grounds on which the Competent Authority m
 Sir, on Mr Murali Pillai's point on the Convention and acceding to the Convention, we have taken some time to study it, as I mentioned at the outset, to look at the details and also assess the merits. And we had
 extensive consultations with various domestic agencies and also stakeholders to ensure that we are ready with it and that upon accession to the Convention, we will be able to discharge the obligations. We have since done so and we are satisfied that we can adopt this regime.
 The new regime will modernise and streamline the authentication process and, as I mentioned at the outset, facilitate the use of documents for cross-border purposes, saving time and expense for parties, both ways. Mr Deputy Speaker, with that, I beg to move.
-|||
-Mr Deputy Speaker
 : There are no clarifications.
