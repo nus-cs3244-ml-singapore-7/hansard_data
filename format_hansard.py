@@ -6,8 +6,8 @@ from bs4 import BeautifulSoup
 
 parser = argparse.ArgumentParser(description="Removes HTML tags from Hansard speeches in JSON with some filters")
 parser.add_argument("path", type=str, help="path to Hansard JSON file")
-parser.add_argument("-s", "--session", action="store_true",
-                    help="Invoke parser for full hansard sessions, else parse other formats (e.g. bills, motions)")
+parser.add_argument("--non_session", action="store_true",
+                    help="Invoke parser for partial Hansard sessions, (e.g. bills, motions)")
 parser.add_argument("-g", "--granular", action="store_true",
                     help="enable granular options for removal of text (see below)")
 parser.add_argument("-v", "--vernacular", action="store_true",
@@ -32,10 +32,10 @@ if __name__ == "__main__":
         os.mkdir("output")
     output_path = os.path.join(cwd, "output", os.path.basename(args.path)[:-5] + "_formatted.json")
 
-    if args.session:
-        speeches = raw_data["takesSectionVOList"]
-    else:
+    if args.non_session:
         speeches = [raw_data["resultHTML"]]
+    else:
+        speeches = raw_data["takesSectionVOList"]
 
     sessions = []
     speaker_list = {}
@@ -118,9 +118,6 @@ if __name__ == "__main__":
         out_json["speakers"] = list(set(clean_speakers.values()))
 
         sessions.append(out_json.copy())
-
-    from pprint import pprint
-    pprint(speaker_list)
 
     with open(output_path, "w", encoding="UTF-8") as f:
         json.dump({"filename": args.path, "sessions": sessions, "all_speakers": list(set(speaker_list.values()))},

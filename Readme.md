@@ -13,10 +13,20 @@
 
 ---
 
-A `format_hansard.py` file is included to extract speeches and standardise the formatting of the JSON files. The formatted JSON files are written into an output folder. This works for full hansard sessions (with the `-s` flag) and for Bills, Motions and Oral Answers. 
+# Cleaning of data
 
-A `formatted_to_txt.py` is also included to turn the formatted JSON file into text for annotation. 
+A `format_hansard.py` file is included to extract speeches and standardise the formatting of the JSON files. The formatted JSON files are written into an output folder. By default, all peripheral text is removed (without the need for any flags). Specific flags are introduced for partial Hansard sessions (e.g. Bills, Motions and Oral Answers) as well as more granular settings (with the `-g` flag). 
 
 ---
 
+# Annotation of data
+
+A `formatted_to_txt.py` is included to turn the formatted JSON file into text for annotation. 
+
 The Annotated folder consists of a `config.json` file to be used with [ner-annotator](https://pypi.org/project/ner-annotator/). The annotated files are present and labelled with `_annotated.json`. 
+
+The workflow for annotation was done with the following steps:
+1) Download JSON file
+2) Format JSON file using format_hansard.py: `python format_hansard.py step_1_file.json -f`, which will give you a step_2_formatted.json file
+3) Convert to text: `python formatted_to_txt.py step_2_formatted.json`, which will give you a step_3_text.txt file
+4) Use ner_annotator: `ner_annotator step_3_text.txt -c config.json -m hansard`
